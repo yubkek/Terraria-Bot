@@ -2,3 +2,5 @@ opencv-python
 numpy
 mss
 pynput
+torch
+torchvision
